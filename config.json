@@ -4,5 +4,23 @@
     "supabase_url": "https://ugwtzfwwifsferskvqvm.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "Database2",
+    "supabase_url": "https://ymettkqgxyqtnrpsmkco.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database3",
+    "supabase_url": "https://qnepvukfprwddvroxmed.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Draggie",
+    "supabase_url": "https://rwqpxjbikklfwrjppjfx.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "keep-alive"
   }
 ]
