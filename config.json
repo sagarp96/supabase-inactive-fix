@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Database1",
+    "supabase_url": "https://ugwtzfwwifsferskvqvm.supabase.co",
+    "supabase_key_env": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVnd3R6Znd3aWZzZmVyc2t2cXZtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTkwNTcxOTksImV4cCI6MjA3NDYzMzE5OX0.E_RwNsGnaVnF8-eDqLBVEFRLAKpmQn8IhuIQWET59Z0",
+    "table_name": "keep-alive"
+  }
+]
