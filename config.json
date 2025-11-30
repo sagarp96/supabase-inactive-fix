@@ -1,18 +1,18 @@
 [
   {
-    "name": "Database1",
+    "name": "ParcelPal",
     "supabase_url": "https://ugwtzfwwifsferskvqvm.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   },
   {
-    "name": "Database2",
+    "name": "PDFInspect",
     "supabase_url": "https://ymettkqgxyqtnrpsmkco.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_3",
     "table_name": "keep-alive"
   },
   {
-    "name": "Database3",
+    "name": "Finance",
     "supabase_url": "https://qnepvukfprwddvroxmed.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_2",
     "table_name": "keep-alive"
@@ -20,7 +20,7 @@
   {
     "name": "Draggie",
     "supabase_url": "https://rwqpxjbikklfwrjppjfx.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY_2",
+    "supabase_key_env": "SUPABASE_KEY_4",
     "table_name": "keep-alive"
   }
 ]
