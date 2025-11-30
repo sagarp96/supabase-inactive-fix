@@ -8,7 +8,7 @@
   {
     "name": "Database2",
     "supabase_url": "https://ymettkqgxyqtnrpsmkco.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY_1",
+    "supabase_key_env": "SUPABASE_KEY_3",
     "table_name": "keep-alive"
   },
   {
